@@ -1,0 +1,6 @@
+= Blog Title
+:published_at: 2015-01-31
+:hp-tags: HubPress, Blog, Open Source,
+:hp-alt-title: My English Title
+
+Hello, this is the start!
